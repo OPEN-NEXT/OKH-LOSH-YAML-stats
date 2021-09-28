@@ -10,6 +10,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 [![REUSE status](
     https://api.reuse.software/badge/github.com/OPEN-NEXT/OKH-LOSH-YAML-stats)](
     https://api.reuse.software/info/github.com/OPEN-NEXT/OKH-LOSH-YAML-stats)
+[![DOI](https://zenodo.org/badge/411145270.svg)](https://zenodo.org/badge/latestdoi/411145270)
 
 # OKH - LOSH - YAML file statistics gatherer
 
